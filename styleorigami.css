@@ -1,0 +1,26 @@
+h1{color: black;}
+.header{
+    border-color: black;
+    background-color: chartreuse;
+    display: flex;
+    justify-content:center;
+}   
+.menu{color: brown;}
+.games{
+  display: flex;
+  justify-content:space-evenly ;  
+  flex-wrap: wrap;
+
+
+}
+p,h3{
+    text-align: center;
+}
+.pictures{
+    display:flex;
+    flex-wrap: wrap;
+}
+.item{border:solid;
+    border-radius: 20px;
+}
+
